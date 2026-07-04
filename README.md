@@ -10,7 +10,7 @@
 
 3,特别感谢“VRU架空铁道联盟”对“东方快车”的运营支持。
 
-4,线路上行（即反向）场景并未完成，推荐您使用“C101”、“D81”、“G11“、”Y901”场景任务。
+4,线路全日时刻表场景并未完成，推荐您使用既有的场景任务。
 
 5,本线路需要使用"Nagoya_Common"的通用Structures，以及"Okaoka"的"BveEx"拓展plugin，请您在使用前与该线路一起安装在同一文件夹内，并启用"BveEx"。
 
@@ -40,7 +40,7 @@
 
 3. 「VRU架空鉄道連盟」が「東方快速」の運営をサポートしてくれたことに特別な感謝を申し上げます。
 
-4. 路線シナリオ（上行）は未完成です。「C101」「D81」「G11」「Y901」シナリオの利用を推奨します。
+4. 路線シナリオ（全日）は未完成です。既有シナリオの利用を推奨します。
 
 5. 本路線は「Nagoya_Common」の共通Structures、および「Okaoka」氏の「BveEx」拡張Pluginが必要です。使用前に、これらを本路線と同じフォルダ内にインストールし、「BveEx」を有効化してください。
 
@@ -70,7 +70,7 @@ By downloading this data, I assume that you are aware of and agree to the follow
 
 3. Special thanks to the 'VRU Virtual Railway Union' for their operational support of the 'Touhou Express'.
 
-4. The route scenarios are incomplete. We recommend the 'C101','D81','G11' and 'Y901' scenarios.
+4. The full-timetables scenarios are incomplete. We recommend the scenarios which we gived.
 
 5. This route requires the "Nagoya_Common" Structures and the "BveEx" extension plugin by "Okaoka". Please install them in the same folder as the route and enable "BveEx" before use.
 
@@ -98,7 +98,7 @@ E-Mail: NS.hrtrec@outlook.com
 
 /////
 
-NSHR450N Driving keys:
+NSHR450N/D Driving keys:
 ATO Mode selector: ATS_B2 (End)
 ATO Started: ATS_C1+ATS_C2 (Page Up+Page Down)
 
@@ -106,8 +106,10 @@ ATO Started: ATS_C1+ATS_C2 (Page Up+Page Down)
 
 Updating Logs:
 2025/02/21, V0.1 incomplete TEST;
-2025/04/02, V0.5 incomplete TEST. Updated Himayama, Touhou Express and TEST360 services;
+2025/04/02, V0.5 incomplete TEST, Updated Himayama, Touhou Express and TEST360 services;
 2025/04/03, V0.51 Updated 'ReadMe.txt' (Remind players to use BveEx);
 2025/04/12, V0.6 Update the 'Himayama 1','Kasei 31' and 'Hazaka 101' scenarios (please delete all the old files (Before V0.51));
-2025/10/21, V0.7 Important Update (please delete all the old files).
-2025/10/21, V0.71 Important Update (please delete all the old files).
+2025/10/21, V0.7 Important Update (please delete all the old files);
+2025/10/21, V0.71 Important Update (please delete all the old files);
+2025/11/16, V1.0 Important Update (please delete all the old files);
+2025/11/19, V1.1 NSHR300AS Vehicle added.
